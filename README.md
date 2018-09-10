@@ -1,5 +1,5 @@
 <h1 align="center" style="color: blue;">Programming Basics C#</h1>
-<p align="center"><img src="softuniLogo.PNG" alt="SoftUni Logo" width="400" height="250"></p>
+<p align="center"><img src="softuniLogo.PNG" alt="SoftUni Logo" width="370" height="250"></p>
 
 <h3>SoftUni Course</h3>
 
