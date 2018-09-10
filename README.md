@@ -1,6 +1,7 @@
 <h1 align="center" style="color: blue;">Programming Basics C#</h1>
 
 <h3>SoftUni Course</h3>
+<img src="softuniLogo.PNG" alt="SoftUni Logo" width="500" height="333">
 
 <ul style="color: #00cc99;">
 	<li><a href="https://github.com/Gandjurov/Course-ProgrammingBasics-SoftUni-/tree/master/02.PrimitiveDataTypesAndVariables"> Primitive Data Types And Variables</a></li>
