@@ -1,8 +1,8 @@
-<h1 align="center" color="blue">Programming Basics C#</h1>
+<h1 align="center" style="color: blue;">Programming Basics C#</h1>
 
 <h3>SoftUni Course</h3>
 
-<ul color="#00cc99">
+<ul style="color: #00cc99;">
 	<li><a href="https://github.com/Gandjurov/Course-ProgrammingBasics-SoftUni-/tree/master/02.PrimitiveDataTypesAndVariables"> Primitive Data Types And Variables</a></li>
 	<li><a href="https://github.com/Gandjurov/Course-ProgrammingBasics-SoftUni-/tree/master/03.OperatorsAndExpressions"> Operators And Expressions</a></li>
 	<li><a href="https://github.com/Gandjurov/Course-ProgrammingBasics-SoftUni-/tree/master/04.ConsoleInputOutput"> Console Input Output</a></li>
